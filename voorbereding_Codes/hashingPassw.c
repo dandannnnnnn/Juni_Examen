@@ -69,3 +69,7 @@ int main() {
 
     return 0;
 }
+
+//Voorbeeld output: 
+// Gebruiker: testuser, Gehasht Wachtwoord (SHA256): 9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+// Gebruiker: alice, Gehasht Wachtwoord (SHA256): 4b2a1a31b2372cde45df9751783a6915624e1e9cdef09507789e9f40311f2319
