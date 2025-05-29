@@ -1,5 +1,6 @@
 //Encrypteren en Decrypteren mbv CaesarCijfer
 //compile manual on vscode terminal: gcc CaesarCijfer.c -o CaesarCijfer
+//runnen na manuele compile: ./Caesarcijfer
 
 #include <stdio.h>
 #include <string.h>
